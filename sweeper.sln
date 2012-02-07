@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweeper", "sweeper\sweeper.csproj", "{64980A95-B53C-4291-9459-47C23329BA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{C6D549C6-557A-4A94-82CD-38A4DE7407EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64980A95-B53C-4291-9459-47C23329BA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64980A95-B53C-4291-9459-47C23329BA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64980A95-B53C-4291-9459-47C23329BA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64980A95-B53C-4291-9459-47C23329BA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D549C6-557A-4A94-82CD-38A4DE7407EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D549C6-557A-4A94-82CD-38A4DE7407EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D549C6-557A-4A94-82CD-38A4DE7407EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D549C6-557A-4A94-82CD-38A4DE7407EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

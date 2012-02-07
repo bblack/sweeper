@@ -1,0 +1,10 @@
+C:\Documents and Settings\BLACKBRI\Desktop\sweeper\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLACKBRI\Desktop\sweeper\model\bin\Debug\model.dll
+C:\Documents and Settings\BLACKBRI\Desktop\sweeper\model\bin\Debug\model.pdb
+C:\Documents and Settings\BLACKBRI\Desktop\sweeper\model\obj\Debug\model.dll
+C:\Documents and Settings\BLACKBRI\Desktop\sweeper\model\obj\Debug\model.pdb
+C:\Documents and Settings\Brian\Desktop\sweeper\model\bin\Debug\model.dll
+C:\Documents and Settings\Brian\Desktop\sweeper\model\bin\Debug\model.pdb
+C:\Documents and Settings\Brian\Desktop\sweeper\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\Desktop\sweeper\model\obj\Debug\model.dll
+C:\Documents and Settings\Brian\Desktop\sweeper\model\obj\Debug\model.pdb
